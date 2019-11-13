@@ -2,7 +2,7 @@
 
 A Deck is a container for Cards. When you tap a Deck from the home Decks screen, you are presented with the Cards inside.
 
-![A typical Cards screen showing a Deck of Cards.](../.gitbook/assets/simulator-screen-shot-iphone-x-2019-02-18-at-22.27.30.png)
+![A typical Cards screen showing a Deck of Cards.](../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-20.29.27.png)
 
 ## Top Bar
 
