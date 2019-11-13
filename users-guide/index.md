@@ -1,6 +1,6 @@
 # Index
 
-![The Index screen of a sample box.](../.gitbook/assets/simulator-screen-shot-iphone-x-2019-02-18-at-22.33.50.png)
+![A typical Index screen showing a Box&apos;s indexed keywords.](../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-20.41.15.png)
 
 ## Tool Bar Buttons
 
@@ -10,11 +10,11 @@
 
     Show All classes; no filtering.
 
-  * "**\#**":
+  * "**123**":
 
     Show Numbers only.
 
-  * "**W**":
+  * "**abc**":
 
     Show Words only: including Noun, Verb, Adjective, Adverb.
 

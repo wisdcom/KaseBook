@@ -16,7 +16,7 @@
 * [Kase of Boxes](users-guide/kase-of-boxes.md)
 * [Box of Decks](users-guide/box-of-decks.md)
 * [Deck of Cards](users-guide/deck-of-cards/README.md)
-  * [Deck Design](users-guide/deck-of-cards/deck-design.md)
+  * [Deck Definitions](users-guide/deck-of-cards/deck-design.md)
 * [Card of Entries](users-guide/card-of-entries.md)
 * [Relational Examples](users-guide/relational-examples/README.md)
   * [Basic Relationship](users-guide/relational-examples/basic-relationship.md)
