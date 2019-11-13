@@ -1,6 +1,6 @@
 # Side Menu
 
-![Side Menu](../../.gitbook/assets/simulator-screen-shot-iphone-x-2019-02-18-at-22.10.40.png)
+![Side Menu \(in Dark Mode\)](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-18.51.03.png)
 
 Tap the **Side Menu** button on the home screen to show the Side Menu.
 
