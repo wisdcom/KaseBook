@@ -1,6 +1,6 @@
 # Backup, etc.
 
-![Backup, etc. screen.](../.gitbook/assets/simulator-screen-shot-iphone-x-2019-02-18-at-22.35.07.png)
+![&quot;Backup, etc.&quot; screen with access to database utilities.](../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-20.44.04.png)
 
 ## Backup
 
