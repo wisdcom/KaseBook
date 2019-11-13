@@ -4,7 +4,17 @@ Kase is your data manager. It is flexible and it is simple. From a list of colle
 
 ## General
 
-First, some common controls in Kase:
+First, some basic concepts in Kase:
+
+* Kase contains **Boxes**
+* A Box holds **Decks**
+* And a Deck collects **Cards**
+
+{% hint style="info" %}
+But if you prefer "Tables" and "Records", you can customize the terminology in Settings. I told you Kase is flexible.
+{% endhint %}
+
+And before you explore around, knowing these common Kase controls will be helpful:
 
 * If unsure, tap-and-hold on a button to see its context menu.
 
