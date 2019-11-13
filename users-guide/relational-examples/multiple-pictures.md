@@ -1,6 +1,6 @@
 # Multiple Pictures
 
-The same one-to-many relationship in the previous example can be used to accomplish linking one Card to multiple pictures.
+The same _one-to-many_ relationship in the previous example can be used to accomplish linking one Card to multiple pictures.
 
 For example, how does one track a real estate property and its many pictures?
 
