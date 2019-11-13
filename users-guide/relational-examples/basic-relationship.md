@@ -37,7 +37,7 @@ From the other direction, any Companies card can easily browse to all Product Li
 
 {% tabs %}
 {% tab title="1" %}
-![](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-21.20.39.png)
+![](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-21.20.29%20%281%29.png)
 {% endtab %}
 
 {% tab title="2" %}
