@@ -2,8 +2,8 @@
 
 To track companies and their products:
 
-* [x] Make two Decks: **Companies**, and **Product Lines**.
-* [x] In Product Lines, add a Link field called "**make**" and select Companies as the **link to deck**.
+* [ ] Make two Decks: **Companies**, and **Product Lines**.
+* [ ] In Product Lines, add a Link field called "**make**" and select Companies as the **link to deck**.
 
 That's it.
 
