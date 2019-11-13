@@ -1,8 +1,12 @@
 # Multiple Pictures
 
+The same one-to-many relationship in the previous example can be used to accomplish linking one Card to multiple pictures.
+
+For example, how does one track a real estate property and its many pictures?
+
 ## Set-up
 
-To track houses and their pictures:
+To track homes and their pictures:
 
 * [ ] Make a deck for **Homes.**
 * [ ] Make a **Home Pictures** deck with a link field "**home**" linking to the Homes deck.
@@ -12,11 +16,11 @@ To track houses and their pictures:
 ![](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-21.58.04.png)
 {% endtab %}
 
-{% tab title="\"Home Pictures\" deck" %}
+{% tab title="\"Home Pictures\" deck..." %}
 ![](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-21.58.42.png)
 {% endtab %}
 
-{% tab title="\"home\" field" %}
+{% tab title="... and its\"home\" field" %}
 ![](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-21.59.38.png)
 {% endtab %}
 {% endtabs %}
