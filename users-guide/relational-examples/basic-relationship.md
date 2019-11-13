@@ -24,11 +24,11 @@ That's it.
 Now that a relation is defined, any Card in Product Lines can link to a Companies card, establishing a two-way relationship:
 
 {% tabs %}
-{% tab title="" %}
+{% tab title="1" %}
 ![](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-21.35.38.png)
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="2" %}
 ![](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-21.17.50.png)
 {% endtab %}
 {% endtabs %}
@@ -36,11 +36,11 @@ Now that a relation is defined, any Card in Product Lines can link to a Companie
 From the other direction, any Companies card can easily browse to all Product Lines that belong to the company:
 
 {% tabs %}
-{% tab title="" %}
+{% tab title="1" %}
 ![](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-21.20.39.png)
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="2" %}
 ![](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-21.26.00%20%281%29.png)
 {% endtab %}
 {% endtabs %}
