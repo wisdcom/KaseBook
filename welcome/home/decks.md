@@ -8,7 +8,7 @@ Decks is Kase's home screen. Here you pick the deck to work with. You can also s
 
 ## Buttons
 
-![Top Bar](../../.gitbook/assets/simulator-screen-shot-iphone-xs-max-2018-11-21-at-13.38.17%20%281%29.png)
+![Top bar](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-20.22.42.png)
 
 * **Side Menu** Button
   * Reveal the [main menu](side-menu.md).
@@ -17,7 +17,7 @@ Decks is Kase's home screen. Here you pick the deck to work with. You can also s
 * **Edit** Button
   * Start/Exit Edit mode.
 
-![Bottom Tool Bar](../../.gitbook/assets/simulator-screen-shot-iphone-xs-max-2018-11-21-at-13.38.17.png)
+![Bottom tool bar](../../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-20.22.42-copy.png)
 
 * **View** Button
   * Listing options.
