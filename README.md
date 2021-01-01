@@ -14,5 +14,5 @@ But what about all those pieces of data that is not an event, not a contact, not
 
 Put it in you **Kase**.
 
-![](.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-17.29.58.png)
+![The &quot;About Kase&quot; window in Light mode; Dark mode readily available.](.gitbook/assets/iphone-11-pro.png)
 
