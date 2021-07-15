@@ -1,5 +1,9 @@
 # Welcome to Kase
 
+{% hint style="warning" %}
+The updated documentation is now at [https://www.wisd.com/kase/docs](https://www.wisd.com/kase/docs/)
+{% endhint %}
+
 Kase is your data manager. It is flexible and it is simple. From a list of collectibles to an expert system or a knowledge base, you can build them with Kase.
 
 ## General
