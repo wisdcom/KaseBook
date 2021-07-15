@@ -1,5 +1,9 @@
 # Meet Your Kase
 
+{% hint style="warning" %}
+The updated documentation is now at [https://www.wisd.com/kase/docs](https://www.wisd.com/kase/docs/)
+{% endhint %}
+
 ## The Missing PIM
 
 To manage your personal information, the familiar four PIM \(Personal Information Managers\) are **Calendar**, **Contacts**, **Reminders**, and **Notes.**
