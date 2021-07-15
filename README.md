@@ -16,7 +16,7 @@ You know an appointment goes into **Calendar**. Contact info should be in **Cont
 
 But what about all those pieces of data that is not an event, not a contact, not a to-do, yet have a bit more structure than just a free-form note?
 
-Put it in you **Kase**.
+Put it in your **Kase**.
 
 ![The &quot;About Kase&quot; window in Light mode; Dark mode readily available.](.gitbook/assets/iphone-11-pro.png)
 
