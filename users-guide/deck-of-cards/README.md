@@ -1,5 +1,9 @@
 # Deck of Cards
 
+{% hint style="warning" %}
+The updated documentation is now at [https://www.wisd.com/kase/docs](https://www.wisd.com/kase/docs/)
+{% endhint %}
+
 ## Views & Filters
 
 A Deck can define any number of Views and Filters. A View defines how the Deck is displayed, including Listing options \(e.g. grouping, sort orders\) and Content options \(e.g. icon size, whether tags is shown\). A View also can choose one of the Deck's defined Filters as the designated Filter.

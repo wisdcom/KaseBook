@@ -1,5 +1,9 @@
 # Basic Relationship
 
+{% hint style="warning" %}
+The updated documentation is now at [https://www.wisd.com/kase/docs](https://www.wisd.com/kase/docs/)
+{% endhint %}
+
 To track companies and their products:
 
 * [ ] Make two Decks: **Companies**, and **Product Lines**.

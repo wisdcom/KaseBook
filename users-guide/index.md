@@ -1,5 +1,9 @@
 # Index
 
+{% hint style="warning" %}
+The updated documentation is now at [https://www.wisd.com/kase/docs](https://www.wisd.com/kase/docs/)
+{% endhint %}
+
 ![A typical Index screen showing a Box&apos;s indexed keywords.](../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2019-11-12-at-20.41.15.png)
 
 ## Tool Bar Buttons

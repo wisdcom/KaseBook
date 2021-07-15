@@ -1,5 +1,9 @@
 # Backup, etc.
 
+{% hint style="warning" %}
+The updated documentation is now at [https://www.wisd.com/kase/docs](https://www.wisd.com/kase/docs/)
+{% endhint %}
+
 ![](../.gitbook/assets/simulator-screen-shot-iphone-11-pro-2020-06-12-at-14.10.59.png)
 
 Towards the bottom of the Side Menu is the "**Backup, etc.**" item. In addition to Backup, you will find other database utilities there.

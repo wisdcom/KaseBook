@@ -1,5 +1,9 @@
 # Multiple Pictures
 
+{% hint style="warning" %}
+The updated documentation is now at [https://www.wisd.com/kase/docs](https://www.wisd.com/kase/docs/)
+{% endhint %}
+
 The same _one-to-many_ relationship in the previous example can be used to accomplish linking one Card to multiple pictures.
 
 For example, how does one track a real estate property and its many pictures?
